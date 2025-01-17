@@ -133,5 +133,5 @@
 | or                                        | OR                                                             |
 
 ---
-
-> ⚠️ **Note:** If two operators have the same precedence, the expression is evaluated from left to right.
+> [!NOTE]
+> If two operators have the same precedence, the expression is evaluated from left to right.
