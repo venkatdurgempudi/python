@@ -1,6 +1,19 @@
 ### 4. Operators
 
-##### Python divides the operators in the following groups:
+#### Index
+
+1. [Arithmetic operators](#41-arithmetic-operators)
+2. [Assignment operators](#42-assignment-operators)
+3. [Comparison operators](#43-comparison-operators)
+4. [Logical operators](#44-logical-operators)
+5. [Identity operators](#45-identity-operators)
+6. [Membership operators](#46-membership-operators)
+7. [Bitwise operators](#47-bitwise-operators)
+8. [Operator Precedence](#48-operator-precedence)
+
+---
+
+##### Python divides the operators into the following groups:
 
 - Arithmetic operators  
 - Assignment operators  
@@ -10,10 +23,9 @@
 - Membership operators  
 - Bitwise operators  
 
-
+---
 
 #### 4.1 Arithmetic operators
-
 
 | Operator | Name            | Example  |
 |----------|-----------------|----------|
@@ -48,9 +60,7 @@
 
 ---
 
-
 #### 4.3 Comparison operators
-
 
 | Operator | Name                       | Example  |
 |----------|----------------------------|----------|
@@ -63,9 +73,7 @@
 
 ---
 
-
 #### 4.4 Logical operators
-
 
 | Operator | Description                            | Example                      |
 |----------|----------------------------------------|------------------------------|
@@ -75,9 +83,7 @@
 
 ---
 
-
 #### 4.5 Identity operators
-
 
 | Operator | Description                                  | Example     |
 |----------|----------------------------------------------|-------------|
@@ -88,7 +94,6 @@
 
 #### 4.6 Membership operators
 
-
 | Operator | Description                                                          | Example     |
 |----------|----------------------------------------------------------------------|-------------|
 | in       | Returns True if a sequence with the specified value is present in the object | x in y     |
@@ -97,7 +102,6 @@
 ---
 
 #### 4.7 Bitwise operators
-
 
 | Operator | Name                  | Description                                                                 | Example   |
 |----------|-----------------------|-----------------------------------------------------------------------------|-----------|
@@ -111,7 +115,6 @@
 ---
 
 #### 4.8 Operator Precedence
-
 
 | Operator                                   | Description                                                    |
 |-------------------------------------------|----------------------------------------------------------------|
@@ -132,6 +135,3 @@
 ---
 
 > ⚠️ **Note:** If two operators have the same precedence, the expression is evaluated from left to right.
-
-
-
